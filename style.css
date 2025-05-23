@@ -1,0 +1,8 @@
+.content {
+    height: 1000px;
+    width: 100%;
+    color: #191cc7;
+    background: #cf2c2c; /* Add this line for testing */
+    font-size: 42px;
+    text-align: center;
+}

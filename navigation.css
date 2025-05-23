@@ -11,6 +11,7 @@
 
 .navbar .logo h1 {
     margin: 0;
+    font-size: 0.8rem;
 }
 
 .navbar ul {
@@ -31,8 +32,8 @@
     text-decoration: underline;
 }
 
-.full-width {
+/* .full-width {
     width: 100vw;
     margin-left: calc(50% - 50vw);
     margin-right: calc(50% - 50vw);
-}
+} */
